@@ -60,7 +60,7 @@ namespace Lesson1
 
         private void GoToSheduler_Click(object sender, RoutedEventArgs e)
         {
-            MainTabControl.SelectedIndex = 0;
+            MainTabControl.SelectedIndex = 0;       //Выбрать 0 й индекс TabControl
         }
     }
 }
